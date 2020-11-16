@@ -1,0 +1,12 @@
+application:
+  user:
+    name: JEFFREY CHU
+    role: Admin
+    team: CARGOSMART/B2B
+    group:
+      - application_owner
+      - product_owner
+    departmentRoles:
+      ISD:
+        - Developer
+        - Assistant Technical Analyst
