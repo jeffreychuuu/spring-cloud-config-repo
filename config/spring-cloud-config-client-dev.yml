@@ -1,13 +1,14 @@
 application:
   user:
-    name: JEFFREY CHU DEV
-    role: Developer
-    team: CARGOSMART/B2B
+    name: JEFFREY CHU
+    role: Senior Engineer, Backend
+    company: Moxbank
+    tribe: Cards & Lending
     group:
-      - application_owner
-      - product_owner
+      - Technology
     departmentRoles:
-      ISD:
-        - Developer
-        - Assistant Technical Analyst
+      Credit Risk:
+        - Backend Engineer
+        - Vault-Admin
+
 
